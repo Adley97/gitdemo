@@ -1,6 +1,1 @@
 ddddd
-<<<<<<< HEAD
-agagagagagagag
-=======
-b1b1b1b1b1b1b1
->>>>>>> master
